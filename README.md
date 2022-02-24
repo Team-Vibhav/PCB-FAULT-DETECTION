@@ -12,7 +12,7 @@ This is a DL based project which uses Sementic segimentaion thorough UNET algori
 
 - Clone the repository to your local enviornment
 - Decide weather you want to tarin upon Torch or TensorFlow
-- Crate the directory structure required for the image folders 
+- Crate the directory structure required for the image folders <br/>
 ![dir-structure-pytorch](https://user-images.githubusercontent.com/76838551/155490771-78e9d8a2-bc1e-4125-8569-b2e33e3e1f4c.jpg)
 - run `train.py` by specifying the required information
 - The final model and checkpoints will be saved to your local runtime which can be used for further detection
