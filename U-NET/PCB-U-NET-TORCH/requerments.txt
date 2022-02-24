@@ -1,0 +1,6 @@
+torch==1.10.2+cpu
+torchvision==0.11.3+cpu
+pillow==9.0.1
+numpy==1.22.2
+albumentations==1.1.0
+tqdm==4.62.3
